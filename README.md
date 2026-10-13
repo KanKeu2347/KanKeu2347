@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Привет, я KanKeu!
 
-<!--
-**KanKeu2347/KanKeu2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Разметка и стилизация (Markup & Styling):
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,LaTeX,Markdown,YAML" alt="Markup" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Стек и технологии:
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,postgres" alt="Tech Stack" />
+</p>
+
+### 🎯 В процессе углубленного изучения:
+* ⚡ Углубление в продвинутый **JavaScript**
+* 🗄️ Практика и оптимизация запросов в **PostgreSQL**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,postgres" alt="Learning" />
+</p>
