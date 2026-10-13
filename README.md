@@ -1,7 +1,5 @@
 # 👋 Привет, я KanKeu!
 
----
-
 ### 🛠️ Стек и технологии:
 <p>
   <img src="https://skillicons.dev/icons?i=js,py,cpp,postgres,html,css,LaTeX,Markdown,YAML" alt="Tech Stack" />
