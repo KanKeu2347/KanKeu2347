@@ -6,9 +6,5 @@
 </p>
 
 ### 🎯 Currently diving deeper into:
-- ⚡ Mastering advanced **JavaScript**
+- ⚡ Mastering advanced **JavaScript**, **Go**
 - 🗄️ Practicing and optimizing queries in **PostgreSQL**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,postgres" alt="Learning" />
-</p>
