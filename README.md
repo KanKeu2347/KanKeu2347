@@ -2,14 +2,9 @@
 
 ---
 
-### 🌐 Разметка и стилизация (Markup & Styling):
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,LaTeX,Markdown,YAML" alt="Markup" />
-</p>
-
 ### 🛠️ Стек и технологии:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,postgres,html,css,LaTeX,Markdown,YAML" alt="Tech Stack" />
 </p>
 
 ### 🎯 В процессе углубленного изучения:
