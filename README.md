@@ -6,5 +6,5 @@
 </p>
 
 ### 🎯 Currently diving deeper into:
-- ⚡ Mastering advanced **JavaScript**, **Go**
+- ⚡ Mastering advanced **JavaScript**, **Go**, **Rust**
 - 🗄️ Practicing and optimizing queries in **PostgreSQL**
